@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KennelAPI", "KennelAPI\KennelAPI.csproj", "{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF3749E-7294-4C73-B49A-70C7D1C21E66}
+	EndGlobalSection
+EndGlobal
