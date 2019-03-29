@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KennelAPI", "KennelAPI\KennelAPI.csproj", "{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KennelAPI", "KennelAPI\KennelAPI.csproj", "{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KennelAPI.Tests", "KennelAPI.Tests\KennelAPI.Tests.csproj", "{DAB7E70B-7228-4397-853F-71F3F3CADEE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731E4E87-EFF2-4C22-A3AE-2A1FD0910F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB7E70B-7228-4397-853F-71F3F3CADEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB7E70B-7228-4397-853F-71F3F3CADEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB7E70B-7228-4397-853F-71F3F3CADEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB7E70B-7228-4397-853F-71F3F3CADEE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
